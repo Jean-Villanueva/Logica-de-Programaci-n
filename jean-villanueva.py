@@ -1,0 +1,2 @@
+MY_CONSTANT = "Mi Constante" 
+MY_CONSTANT= "PLAZA"
